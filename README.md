@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yash46yadav
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate. 
 - 📫 How to reach me yashy4164@gmail.com.
 
 <!---
