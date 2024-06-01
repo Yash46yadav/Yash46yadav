@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yash46yadav
+- 👋 Hi, I’m @YashYadav
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate. 
