@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashYadav
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Python development.
 - 💞️ I’m looking to collaborate. 
 - 📫 How to reach me in.yashyadav@gmail.com.
 
